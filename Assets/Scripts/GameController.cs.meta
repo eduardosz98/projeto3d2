@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f96dc2bfdc78e6498a7ff2c5c2b1f5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tile: {instanceID: 0}
+  - obstacle: {instanceID: 0}
+  - capsuleSlow: {instanceID: 0}
+  - ObstacleYellow: {fileID: 5274301268445841273, guid: 9a883870773159e41b2150e9294df838,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
